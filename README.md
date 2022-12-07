@@ -2,7 +2,7 @@
 
 
 This repository contains programs that: <br>
-a. tests if the function used to calculate the matrix vector multiplication works successfully <br>
+a. Tests if the function used to calculate the matrix vector multiplication works successfully <br>
 b. Analyzes the time and complexity of the matrix vector multiplication 
 
 
