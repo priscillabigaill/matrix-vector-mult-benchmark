@@ -27,7 +27,7 @@ Test #3:
 Actual V[0] = 40; Expected V[0] = 40
 Actual V[1] = 46; Expected V[1] = 46
 ```
-As you can see, the expected and the actual output is the same. That means that the testing function works and the function used is successful.
+As seen from the data above, the expected and the actual output is the same. That means that the testing function works and the function used is successful.
 
 
 
