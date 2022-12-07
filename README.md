@@ -1,4 +1,4 @@
-# <b> Matrix Vector Multiplication </b>
+# <b> Matrix Vector Multiplication Benchmark </b>
 
 
 This repository contains a program that tests if the function used to calculate the matrix vector multiplication works successfully. 
