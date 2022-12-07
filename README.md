@@ -1,9 +1,11 @@
 # <b> Matrix Vector Multiplication Benchmark </b>
 
 
-This repository contains a program that tests if the function used to calculate the matrix vector multiplication works successfully. 
+This repository contains programs that: <br>
+a. tests if the function used to calculate the matrix vector multiplication works successfully <br>
+b. Analyzes the time and complexity of the matrix vector multiplication 
 
-#
+
 ## Testing
 
 To run:
@@ -27,7 +29,7 @@ Actual V[1] = 46; Expected V[1] = 46
 ```
 As you can see, the expected and the actual output is the same. That means that the testing function works and the function used is successful.
 
-#
+
 
 ## Benchmark; time complexity
 
